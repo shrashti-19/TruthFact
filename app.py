@@ -1,7 +1,6 @@
 import streamlit as st
 import pickle
 import re 
-import matplotlib.pyplot as plt
 from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS
 
 # ---- PAGE CONFIG ----
