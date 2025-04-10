@@ -47,7 +47,7 @@ pip install -r requirements.txt
 python model_training.py
 
 4. Run the Streamlit App
-streamlit run app.py
+$ python -m streamlit run app.py
 
 🧠 Model Details
 Algorithm: Logistic Regression
