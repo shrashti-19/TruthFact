@@ -30,13 +30,13 @@ This project uses **Logistic Regression** and **TF-IDF vectorization** to classi
 ├── True.csv # True news data 
 ├── distributions/ 
 # Plots (word clouds, countplot) 
-├── README.md # Project documentation
-└── .gitignore # Ignore pkl, csv files if needed
+README.md # Project documentation 
+.gitignore # Ignore pkl, csv files if needed
 
 
 ## 🚀 How to Run
 
-### 1. Clone the repository
+1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/fake-news-detector.git
 cd TruthFact
