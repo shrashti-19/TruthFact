@@ -4,4 +4,4 @@ matplotlib
 seaborn
 wordcloud
 streamlit
-pickle5
+pickle
