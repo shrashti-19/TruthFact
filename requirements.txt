@@ -1,7 +1,6 @@
-pandas
+streamlit
 scikit-learn
 matplotlib
+pandas
+numpy
 seaborn
-wordcloud
-streamlit
-pickle
