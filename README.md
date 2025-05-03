@@ -53,7 +53,7 @@ Streamlit (Web App)
 
 
 🎯 Demo Screenshot
-<img src="screenshot.png" alt="TruthFact Demo" width="600"/>
+Screenshot.png in the file folder
 
 🤝 Contributing
 Pull requests are welcome! Feel free to fork the repo and submit improvements.
